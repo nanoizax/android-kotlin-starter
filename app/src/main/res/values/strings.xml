@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Starter</string>
+
+    <!-- Auth -->
+    <string name="login_title">Sign In</string>
+    <string name="login_subtitle">Welcome back! Please sign in to continue.</string>
+    <string name="email_label">Email</string>
+    <string name="email_placeholder">you@example.com</string>
+    <string name="password_label">Password</string>
+    <string name="password_placeholder">Your password</string>
+    <string name="login_button">Sign In</string>
+    <string name="logout_button">Sign Out</string>
+
+    <!-- Users -->
+    <string name="users_title">Users</string>
+    <string name="users_empty">No users found.</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+
+    <!-- Errors -->
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_invalid_password">Password must be at least 6 characters.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+    <string name="error_session_expired">Session expired. Please sign in again.</string>
+</resources>
